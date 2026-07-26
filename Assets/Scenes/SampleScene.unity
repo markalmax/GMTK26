@@ -368,12 +368,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9af5133f2be98c24ba41cc41af7b0c3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Dungeon
-  room: {fileID: 341659560111783659, guid: 86da8219b3213d943a156afee929a920, type: 3}
+  roomPrefab: {fileID: 341659560111783659, guid: 86da8219b3213d943a156afee929a920, type: 3}
   minimumSize: {x: 5, y: 5}
   maximumSize: {x: 10, y: 10}
-  roomDensity: 50
+  roomDensity: 35
   roomSpace: 30
-  s: 
 --- !u!4 &1584591753
 Transform:
   m_ObjectHideFlags: 0
